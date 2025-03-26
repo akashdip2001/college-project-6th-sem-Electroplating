@@ -15,5 +15,5 @@
 ![IMG20240305234116](https://github.com/akashdip2001/college-project-6th-sem-Electroplating/assets/81384987/aa550075-f555-4e44-ac11-edac4aa7f6a3)
 <!--![20240305_234201650](https://github.com/akashdip2001/college-project-6th-sem-Electroplating/assets/81384987/150f7850-7bf1-4291-877a-4661f1c1e8da)-->
 
-| [Next Model](https://akashdip2001.github.io/college-final-year-project/) |
-| --- |
+| [Next Model](https://akashdip2001.github.io/college-final-year-project/) | or [Mirror site](https://college-final-year-project.netlify.app/) |
+| --- | --- |
